@@ -25,7 +25,7 @@
 # etc
 .eslintcache
 yarn-error.log
-.json
+*.json
 .exe
 
 # log
